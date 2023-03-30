@@ -1,6 +1,6 @@
 # chatGPT-UI
 
-> a project to fork chatGPT UI
+> a project to umi for UI learning
 
 
 ## 开始
